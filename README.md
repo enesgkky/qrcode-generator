@@ -2,7 +2,7 @@
 
 Start pressing the keyboard and it will generate a QR Code for you. If you want to download it, just click here. 👍
 
-
+<img src="qrcode.png" alt="qrcode"/>
 ## Installation 💖
 
 
